@@ -9,3 +9,7 @@
 
 ## 多项式拟合与补线
 ![image](https://github.com/user-attachments/assets/b39e646c-08c4-451a-aabe-c5fc11daaead)
+
+
+https://github.com/user-attachments/assets/b42c52ce-ab8e-4b71-ac3d-6e50d25b814c
+
